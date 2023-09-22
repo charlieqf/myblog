@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating-a-Simple-Nodejs-Web-App-with-Express
+title: Creating a Simple Nodejs Web App with Express
 ---
 
 Creating a Simple Node.js Web App with Express
